@@ -1,1 +1,1 @@
-# Computer-vision
+# Collection of Computer Vision Projects
